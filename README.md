@@ -3,7 +3,7 @@ Vergiss's own blogs and some examples
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">'
+    <meta charset="UTF-8">
     <title></title>
     <style type="text/css">
       div{
